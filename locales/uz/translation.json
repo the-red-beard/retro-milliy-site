@@ -1,0 +1,263 @@
+{
+  "nav": {
+    "menu": "Menyu",
+    "banquets": "Bayramlar",
+    "about": "Restoran haqida",
+    "contact": "Aloqa",
+    "book": "Band qilish",
+    "aria": "Asosiy navigatsiya",
+    "open": "Menyuni ochish",
+    "close": "Menyuni yopish",
+    "quick": "Tezkor amallar"
+  },
+  "hero": {
+    "kicker": "Restoran · Mangal · Toshkent",
+    "title": "Katta davra uchun choʻgʻda pishgan goʻsht",
+    "lede": "Lyulya, mol va tovuq shashligi, tandirda dimlangan qoʻy goʻshti. Setni 30–40 daqiqada yigʻamiz, stol narxini oldindan aytamiz.",
+    "ctaBook": "Stol band qilish",
+    "ctaMenu": "Menyuni koʻrish",
+    "address": "Toshkent · Oltintepa koʻchasi, 28"
+  },
+  "highlights": {
+    "coals": "Barcha goʻshtni choʻgʻda pishiramiz",
+    "time": "Setni 30–40 daqiqada yigʻamiz",
+    "table": "20 va undan koʻp mehmonga uzun stol",
+    "kids": "Yakshanba kunlari bolalar dasturi bilan oilaviy dasturxon"
+  },
+  "sets": {
+    "kicker": "Mangal setlari",
+    "title": "Stol allaqachon yigʻilgan",
+    "lede": "Narxlar amaldagi menyudan. Ichimlik va salatlar setga kirmaydi.",
+    "allCta": "Barcha setlar va narxlar",
+    "photoLabel": "«{{name}}»: butun set tepadan, qora stol ustida",
+    "photoHint": "Shot-list: qorongʻi fonda, yon tomondan bitta yorugʻlik",
+    "perPerson": "har bir kishiga {{per}} soʻm",
+    "persons_one": "{{count}} kishiga",
+    "persons_other": "{{count}} kishiga"
+  },
+  "math": {
+    "kicker": "Halol hisob",
+    "title": "Har bir kishiga hisoblaymiz",
+    "lede": "Toʻrt stol va toʻrt narx. Har bir mehmon qanchaga tushishi koʻrinib turadi.",
+    "colSet": "Set",
+    "colPrice": "Narxi, soʻm",
+    "colPersons": "Mehmonlar",
+    "colPerPerson": "Kishi boshiga, soʻm",
+    "note": "Narxlar menyu bilan solishtirilgan. Setlarni 30–40 daqiqada yigʻamiz."
+  },
+  "birthday": {
+    "kicker": "Tugʻilgan kunlar",
+    "title": "Bayram uchun uchta paket",
+    "lede": "Farqi bolalar soni va dasturda. Kattalarga 350 000 soʻmdan goʻshtli set yigʻamiz.",
+    "from": "{{price}} soʻmdan",
+    "kids_one": "{{count}} bolagacha",
+    "kids_other": "{{count}} bolagacha",
+    "cta": "Bayramlar haqida batafsil"
+  },
+  "gallery": {
+    "kicker": "Muhit",
+    "title": "Zal, mangal va choʻgʻ tafti",
+    "lede": "Suratga olish hali oldinda. Bu yerda shot-listdagi kadrlar uchun joylar belgilangan.",
+    "shot1": "Butun set tepadan, qatʼiy vertikal, qora stol ustida",
+    "shot2": "Stol sathidan 30–45° burchak, shishlar istiqbolga ketadi",
+    "shot3": "Bitta shish yaqin plandan: goʻsht, yogʻ yaltirashi, bugʻ",
+    "shot4": "Ofitsiant setni stolga qoʻyadi, kadr oʻtirgan mehmon nigohidan",
+    "hintDark": "Qorongʻi fonda, yon tomondan bitta yorugʻlik, shift chiroqlarisiz"
+  },
+  "reviews": {
+    "kicker": "Fikrlar",
+    "title": "Mehmonlar nima deydi",
+    "stub": "Mehmon fikri: aniq tashrif haqida ikki-uch jumla",
+    "stubHint": "Haqiqiy fikrlarni xaritalar va Directdan olamiz. Oʻylab topilgan fikrlar chiqarilmaydi."
+  },
+  "finalCta": {
+    "kicker": "Stol broni",
+    "title": "Stolingizni yigʻamiz",
+    "lede": "Directga GRILL4 yoki SUPER10 soʻzini yozing. Set tarkibi va boʻsh vaqtni aytamiz.",
+    "ctaDirect": "Directga yozish",
+    "ctaContact": "Aloqa va manzil"
+  },
+  "menuPage": {
+    "kicker": "Menyu",
+    "title": "Setlar va mangal",
+    "lede": "Barcha narxlar restoranning amaldagi menyusidan. Bizda servis toʻlovi yoʻq, faqat buyurtma uchun toʻlaysiz.",
+    "setsKicker": "Setlar",
+    "setsTitle": "Davra uchun setlar",
+    "setsLede": "Toʻrt kishilik stoldan oʻn kishilik super setgacha.",
+    "setsNote": "Ichimlik va salatlar setga kirmaydi. Yigʻish vaqti 30–40 daqiqa.",
+    "specialKicker": "Maxsus taklif",
+    "specialTitle": "4–5 kishiga",
+    "specialLede": "Dasturxon uchun yirik taomlar. Narxlar menyudan.",
+    "askCta": "Tarkibini Directdan soʻrash",
+    "deliveryKicker": "Yetkazib berish",
+    "deliveryTitle": "Retro taomlari uyingizda",
+    "deliveryText": "Yetkazib berish buyurtmalarini telegram-bot qabul qiladi. Taomlarimizni uydan chiqmasdan tatib koʻring.",
+    "deliveryCta": "Yetkazib berish botini ochish"
+  },
+  "banquetsPage": {
+    "kicker": "Bayramlar",
+    "title": "Tugʻilgan kunlar va ziyofatlar",
+    "lede": "Bolalar uchun uchta dastur paketi va kattalar dasturxoni uchun goʻshtli setlar.",
+    "packagesKicker": "Paketlar",
+    "packagesTitle": "Tugʻilgan kunga uchta paket",
+    "packagesLede": "Farqi bolalar soni va dasturda.",
+    "photo": {
+      "mini": "Sodda bezakli bolalar stoli, boshlovchi bolalar bilan",
+      "family": "Animator master-klass oʻtkazmoqda, bolalar stol atrofida",
+      "full": "Fotozona, fotograf bolalar guruhini suratga olmoqda"
+    },
+    "photoHint": "Haqiqiy bayramdan kadrlar, ota-onalarning yozma roziligi bilan",
+    "packageCta": "Directga BDAY deb yozish",
+    "termsKicker": "Shartlar",
+    "termsTitle": "Bu qanday ishlaydi",
+    "terms": {
+      "deposit": {
+        "title": "Sana depozit bilan",
+        "text": "Bayram sanasini 30% depozit bilan qatʼiylaymiz. Boʻsh sanalarni Directda BDAY soʻzi bilan aytamiz."
+      },
+      "adults": {
+        "title": "Kattalar dasturxoni",
+        "text": "Kattalarga 350 000 soʻmdan goʻshtli set: lyulya, mol va tovuq shashligi, mangalda sabzavot."
+      },
+      "longTable": {
+        "title": "Uzun stol",
+        "text": "Zalda 20 va undan koʻp mehmonga uzun stol bor. Katta davralar oldindan buyurtma bilan oʻtiradi."
+      }
+    },
+    "sundayKicker": "Oilaviy vaqt",
+    "sundayTitle": "Yakshanba, kunduzi soat bir",
+    "sundayText": "Yakshanba kunlari 13:00 da zal oilalarni yigʻadi: bolalar dasturi ishlaydi, kattalarga mangal setlarini pishiramiz. Yakshanbaga stolni oldindan band qilgan maʼqul.",
+    "sundayCta": "Yakshanbaga band qilish",
+    "sundayPhoto": "Yakshanbadagi oilaviy zal: bolalar dasturi va yigʻilgan stollar"
+  },
+  "aboutPage": {
+    "kicker": "Restoran haqida",
+    "title": "Retro Milliy",
+    "storyKicker": "Tarix",
+    "storyTitle": "Bularning barchasi qayerdan",
+    "storyStub": "Restoran tarixi egasining tilidan: qachon ochilganmiz, nima uchun Retro va Milliy biz uchun nimani anglatadi. Uch-toʻrt xatboshi.",
+    "storyStubHint": "Matn egasi bilan kelishiladi. Hozircha materiallarda tarix yoʻq.",
+    "storyPhoto": "Kechqurun restoran fasadi yoki kirish qismi, derazalardan iliq nur",
+    "photoHint": "Dizayn-tizim shot-listi boʻyicha: qora fon, yon tomondan yorugʻlik",
+    "kitchenKicker": "Oshxona",
+    "kitchenTitle": "Mangal, tandir va osh",
+    "kitchenLede": "Dasturxon shular atrofida yigʻiladi.",
+    "kitchen": {
+      "mangal": {
+        "photo": "Oshpaz mangal yonida, jonli olov, qator shishlar",
+        "title": "Mangal",
+        "text": "Lyulya, mol va tovuq shashligi, mangalda sabzavot. Barcha goʻshtni choʻgʻda pishiramiz."
+      },
+      "tandyr": {
+        "photo": "Tandir, undan dimlangan qoʻy goʻshti olinmoqda",
+        "title": "Tandir",
+        "text": "Olti kishilik dimlangan qoʻy goʻshti va tandirdan qoʻy kuragi."
+      },
+      "plov": {
+        "photo": "Qozondagi osh, bugʻ, katta laganda tortish",
+        "title": "Osh",
+        "text": "Menyu boʻyicha toʻy oshi, kilogrammi 385 000 soʻm."
+      }
+    },
+    "hallKicker": "Zal",
+    "hallTitle": "Katta davra uchun joy",
+    "hallLede": "Oddiy stollar, 20 mehmonga uzun stol va bolalar bayrami uchun maydon.",
+    "hallPhoto1": "Kechqurungi asosiy zal, yigʻilgan stollar",
+    "hallPhoto2": "20 va undan koʻp mehmonga uzun stol",
+    "hallPhoto3": "Bolalar maydoni va bayramlar uchun fotozona",
+    "cta": "Stol band qilish"
+  },
+  "contactPage": {
+    "kicker": "Aloqa",
+    "title": "Bizni qanday topish mumkin",
+    "lede": "Oltintepa koʻchasi, 28. Stol broni Direct yoki telefon orqali.",
+    "bookKicker": "Bron",
+    "bookTitle": "Stol band qilish",
+    "form": {
+      "name": "Ism",
+      "namePlaceholder": "Sizga qanday murojaat qilamiz",
+      "phone": "Telefon",
+      "date": "Sana",
+      "guests": "Mehmonlar",
+      "submit": "Ariza yuborish",
+      "note": "Skelet: forma hozircha CRM yoki messenjerga ulanmagan. Maydonlar va tekshiruv tayyor, joʻnatishni keyin yozamiz.",
+      "stubTitle": "Ariza ketmadi: forma hali ulanmagan",
+      "stubText": "Saytda hozircha backend yoʻq. Directga yozing, tez javob beramiz.",
+      "stubCta": "Directga yozish"
+    },
+    "hoursStub": "Ish vaqti: zaldan aniqlash kerak",
+    "hoursNote": "Pleysxolder: ish jadvali materiallarda yoʻq",
+    "mapStub": "Oltintepa koʻchasi, 28 belgisi bilan Yandex xaritasi",
+    "mapHint": "Yandex Xaritalar API kaliti kerak. Hozircha xarita skrinini qoʻyish mumkin."
+  },
+  "contacts": {
+    "address": "Toshkent, Oltintepa koʻchasi, 28",
+    "deliveryNote": "Yetkazib berish"
+  },
+  "footer": {
+    "tagline": "Toshkentdagi mangalli restoran. Davra uchun setlar, tugʻilgan kunlar va oilaviy yakshanbalar.",
+    "navTitle": "Boʻlimlar",
+    "contactsTitle": "Aloqa",
+    "rights": "Ichki ish uchun sayt skeleti"
+  },
+  "common": {
+    "sum": "soʻm"
+  },
+  "notFound": {
+    "title": "Bunday sahifa yoʻq",
+    "lede": "Havola eskirgan koʻrinadi. Menyu esa joyida.",
+    "cta": "Bosh sahifaga"
+  },
+  "seo": {
+    "homeTitle": "Retro Milliy — choʻgʻda pishgan goʻsht. Toshkentdagi restoran",
+    "homeDescription": "Mangal setlari, tugʻilgan kunlar va oilaviy dasturxonlar. Toshkent, Oltintepa koʻchasi, 28.",
+    "menuTitle": "Menyu — Retro Milliy",
+    "menuDescription": "Restoranning toʻliq menyusi: 350 000 soʻmdan mangal setlari, salatlar, shashliklar, milliy va turk taomlari.",
+    "banquetsTitle": "Tugʻilgan kunlar va ziyofatlar — Retro Milliy",
+    "banquetsDescription": "Bolalar bayramining uchta paketi, 20 mehmonga uzun stol, kattalarga goʻshtli setlar.",
+    "aboutTitle": "Restoran haqida — Retro Milliy",
+    "aboutDescription": "Mangal, tandir va osh. Toshkent, Oltintepa koʻchasi, 28.",
+    "contactTitle": "Aloqa va bron — Retro Milliy",
+    "contactDescription": "Toshkent, Oltintepa koʻchasi, 28. Stol broni Direct orqali.",
+    "notFoundTitle": "Sahifa topilmadi — Retro Milliy"
+  },
+  "placeholder": {
+    "badge": "pleysxolder",
+    "kind": {
+      "photo": "Foto",
+      "video": "Video",
+      "map": "Xarita",
+      "text": "Matn"
+    }
+  },
+  "fullMenu": {
+    "navAria": "Menyu boʻlimlari",
+    "time": "tayyorlanish vaqti {{time}} daqiqa",
+    "sections": {
+      "salads": "Salatlar",
+      "starters": "Gazaklar",
+      "tandyr": "Tandir va pitsa",
+      "soups": "Birinchi taomlar",
+      "national": "Milliy taomlar",
+      "turkish": "Turk taomlari",
+      "grill": "Shashliklar",
+      "sides": "Garnir va non",
+      "desserts": "Shirinliklar",
+      "drinks": "Ichimliklar"
+    },
+    "groups": {
+      "cold": "Sovuq gazaklar · 8–10 daqiqa",
+      "hot": "Issiq gazaklar · 10–15 daqiqa",
+      "tandyrDishes": "Tandir",
+      "pizza": "Pitsa",
+      "garnish": "Garnirlar",
+      "bread": "Non",
+      "lemonade": "Limonadlar",
+      "mocktails": "Alkogolsiz kokteyllar",
+      "soft": "Ichimliklar",
+      "tea": "Choylar",
+      "fresh": "Freshlar",
+      "milkshakes": "Milk sheyklar"
+    }
+  }
+}
