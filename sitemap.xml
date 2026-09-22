@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- При переезде на свой домен заменить адреса и обновить robots.txt -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/uz</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/menu</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/menu"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/menu"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/menu"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/uz/menu</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/menu"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/menu"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/menu"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/banquets</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/banquets"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/banquets"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/banquets"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/uz/banquets</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/banquets"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/banquets"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/banquets"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/about</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/about"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/about"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/uz/about</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/about"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/about"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/contact"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/contact"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://the-red-beard.github.io/retro-milliy-site/uz/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://the-red-beard.github.io/retro-milliy-site/contact"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://the-red-beard.github.io/retro-milliy-site/uz/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://the-red-beard.github.io/retro-milliy-site/contact"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

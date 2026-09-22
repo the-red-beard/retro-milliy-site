@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# При переезде на свой домен поменять адрес здесь и в sitemap.xml
+Sitemap: https://the-red-beard.github.io/retro-milliy-site/sitemap.xml
